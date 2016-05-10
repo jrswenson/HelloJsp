@@ -1,3 +1,5 @@
 build
 .gitattributes
 .gradle
+*.ipr
+*.iws
